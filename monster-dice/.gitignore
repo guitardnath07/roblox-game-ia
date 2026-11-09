@@ -1,0 +1,13 @@
+Packages/
+DevPackages/
+ServerPackages/
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.blend1
+__pycache__/
+.DS_Store
+OneDrive_*.zip
+outils/blender/sortie/
